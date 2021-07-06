@@ -1,7 +1,7 @@
 # NLW TOGETHER 🚀
 
 ## 📄 Licença
-Feito com a ajuda da [Rocketseat](https://rocketseat.com.br/) entre os dias 20 e 27 de junho de 2021 e modificado por [Luan Zacarias](https://github.com/Luanzacarias) 
+Feito em conjunto com a [Rocketseat](https://rocketseat.com.br/) entre os dias 20 e 27 de junho de 2021, durante NLW TOGETHER e modificado por [Luan Zacarias](https://github.com/Luanzacarias) 
 
 ## ✨ Tecnologias
 
