@@ -3,6 +3,10 @@
 ## 📄 Licença
 Feito em conjunto com a [Rocketseat](https://rocketseat.com.br/) entre os dias 20 e 27 de junho de 2021, durante NLW TOGETHER e modificado por [Luan Zacarias](https://github.com/Luanzacarias) 
 
+![cover](https://user-images.githubusercontent.com/68932882/148768322-dcddec6a-f267-4c88-8101-406d1840f7ce.png)
+
+
+
 ## ✨ Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
