@@ -5,8 +5,6 @@ Feito em conjunto com a [Rocketseat](https://rocketseat.com.br/) entre os dias 2
 
 ![cover](https://user-images.githubusercontent.com/68932882/148768322-dcddec6a-f267-4c88-8101-406d1840f7ce.png)
 
-
-
 ## ✨ Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
@@ -28,15 +26,29 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - React Native Share
 - Deep Link
 
+## Features
+
+- Autenticação Social OAuth2 com servidor do Discord.
+- Obtém perfil do usuário cadastro no Discord (username e avatar);
+- Lista os servidores do Discord que o usuário faz parte;
+- Permite realizar o agendamento de partidas;
+- Permite filtrar as partidas por categoria;
+- Exibe se a partida foi agendada em um servidor próprio (anfitrião) ou em servidores de outros (convidado);
+- Compartilha o convite para ingressar no servidor do usuário;
+- Permite redirecionar o usuário para o seu próprio servidor;
+- Disponibiliza a função de Logout.
+
 ## Como executar o projeto
 
 Utilize o yarn ou o npm install para instalar as dependências do projeto. Em seguida, inicie o projeto. com "expo start" em seu terminal.
 
 É preciso criar o App no servidor do [Discord Developer](https://discord.com/developers/applications) e criar um arquivo .env (com a configuração apresentada em .env.example).
 
-## Mais
+## Layout
 
-Para mais informações, [clique aqui](https://github.com/rodrigorgtic/gameplay-nlw-together).
+Acesse o layout do aplicativo [aqui](https://www.figma.com/file/0kv33XYjvOgvKGKHBaiR07/GamePlay-NLW-Together?node-id=58913%3A83)
 
-## NLW-TOGETHER
+
+## Créditos 
+Créditos ao [Rodrigo Gonçalves](https://github.com/rodrigorgtic) pela maioria das informações desse arquivo.
 
